@@ -224,13 +224,3 @@ Open-source under the **MIT License**
 
 ---
 
-## 🗂 Recommended GitHub Folder Structure
-
-```
-Virtual-Car-Simulation/
-│
-├── virtual_car.c
-├── Documentation/
-│   └── Virtual_Car_Presentation.pptx
-├── README.md
-```
